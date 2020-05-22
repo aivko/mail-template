@@ -6,3 +6,8 @@ function secondCommit() {
     firstCommit()
     console.log(secondCommit)
 }
+
+function thirdCommit() {
+    firstCommit()
+    secondCommit()
+}
