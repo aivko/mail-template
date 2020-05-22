@@ -11,3 +11,9 @@ function thirdCommit() {
     firstCommit()
     secondCommit()
 }
+
+function foutrhCommit() {
+    firstCommit()
+    secondCommit()
+    thirdCommit()
+}
