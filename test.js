@@ -17,5 +17,3 @@ function foutrhCommit() {
     secondCommit()
     thirdCommit()
 }
-
-foutrhCommit()
